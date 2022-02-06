@@ -5,11 +5,11 @@ Maintainer: Matthew <PizzaTime2004>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.nito.fc_1.0-1_iphoneos-arm.deb
-Description: Adds MFI  Support for FIFA Mobile iOS 7.0-iOS-14
+Description: Adds MFI Support for FIFA Mobile iOS 7.0-iOS-14
 Name: Packages
 Author: PizzaTime2004 <PizzaTime2004>
 Size: 154130
-MD5sum: E0F2A39F216B61CBA9D96AE443B8A725
+MD5sum: c2bb08cc3702a3c8fb948d716dc9c4f1
 
 
 
