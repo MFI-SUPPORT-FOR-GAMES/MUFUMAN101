@@ -1,0 +1,8 @@
+Origin: MFI Support For Any Game!
+Label: MFI Support For Any Game!
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: MFI Support For Any Game!
